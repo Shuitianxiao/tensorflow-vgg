@@ -2,7 +2,7 @@ import numpy as np
 import tensorflow as tf
 
 _VGG_MEAN = [103.939, 116.779, 123.68]
-
+#Git test
 
 class Vgg16:
     """
